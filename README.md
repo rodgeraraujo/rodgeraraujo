@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi, it me! 👋
+I made things, and sometimes I break.
 
 <!--
 **rodgeraraujo/rodgeraraujo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
