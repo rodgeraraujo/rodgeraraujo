@@ -9,8 +9,20 @@ I'm Rogério. I'm a software engineer who like make things ~~and sometimes break
 
 - 💚 Lover of Vue.js
 - 💫 In love with JavaScript
-- 😄 Also UI Designer
-- ⚡ Techs: Vue.js, Node.js, Python, Java, Docker, Figma and others.
+- ⚡ Also UI Designer
+
+**Some languages, frameworks and tools:**  
+<code><img height="20" src="https://devicons.github.io/devicon/devicon.git/icons/vuejs/vuejs-original.svg"></code>
+<code><img height="20" src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original.svg"></code>
+<code><img height="20" src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg"></code>
+<code><img height="20" src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg"></code>
+<code><img height="20" src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original.svg"></code>
+<code><img height="20" src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original.svg"></code>
+<code><img height="20" src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original.svg"></code>
+<code><img height="20" src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original.svg"></code>
+<code><img height="20" src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original.svg"></code>
+  
+ ---
 
 > 👽 [rogerioaraujo.me](https://rogerioaraujo.me)
 <!--
