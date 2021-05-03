@@ -12,15 +12,15 @@ I'm Rogério. I'm a software engineer who like make things ~~and sometimes break
 - ⚡ Also UI Designer
 
 **Some languages, frameworks and tools:**  
-<code><img height="20" src="https://devicons.github.io/devicon/devicon.git/icons/vuejs/vuejs-original.svg"></code>
-<code><img height="20" src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original.svg"></code>
-<code><img height="20" src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg"></code>
-<code><img height="20" src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg"></code>
-<code><img height="20" src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original.svg"></code>
-<code><img height="20" src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original.svg"></code>
-<code><img height="20" src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original.svg"></code>
-<code><img height="20" src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original.svg"></code>
-<code><img height="20" src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"></code>
   
  ---
 
