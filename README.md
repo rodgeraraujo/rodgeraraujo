@@ -3,7 +3,7 @@
 
 [![Github Badge](https://img.shields.io/badge/-rodgeraraujo-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/rodgeraraujo)](https://github.com/rebeccamanzi)
 [![Linkedin Badge](https://img.shields.io/badge/-RogerioAraujo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rog%C3%A9rio-ara%C3%BAjo-a4891b124/)](https://www.linkedin.com/in/rog%C3%A9rio-ara%C3%BAjo-a4891b124/)
-[![Gmail Badge](https://img.shields.io/badge/-rogerio.araujo.mail.com-blue?style=flat-square&logo=mail.ru&logoColor=white&link=mailto:rogerio.araujo.mail.com)](mailto:rogerio.araujo.mail.com)
+[![Gmail Badge](https://img.shields.io/badge/-rogerio.araujo.mail.com-blue?style=flat-square&logo=mail.ru&logoColor=white&link=mailto:rogerio.araujo.mail.com)](mailto:rogerio.araujo@mail.com)
 ---
 
 ```javascript
@@ -54,4 +54,4 @@ const me = new SoftwareEngineer()
 
  ---
 
-> 👽 [rogerioaraujo.me](https://rogerioaraujo.me)
+> 👽 [rogerioaraujo.me](https://rogerioaraujo.dev)
