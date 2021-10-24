@@ -1,22 +1,30 @@
 
 ### Hi, it me 🖖!
 
-[![Github Badge](https://img.shields.io/badge/-rodgeraraujo-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/rodgeraraujo)](https://github.com/rebeccamanzi)
+[![Github Badge](https://img.shields.io/badge/-rodgeraraujo-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/rodgeraraujo)](https://github.com/rodgeraraujo)
 [![Linkedin Badge](https://img.shields.io/badge/-RogerioAraujo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rog%C3%A9rio-ara%C3%BAjo-a4891b124/)](https://www.linkedin.com/in/rog%C3%A9rio-ara%C3%BAjo-a4891b124/)
-[![Gmail Badge](https://img.shields.io/badge/-rogerio.araujo.mail.com-blue?style=flat-square&logo=mail.ru&logoColor=white&link=mailto:rogerio.araujo.mail.com)](mailto:rogerio.araujo@mail.com)
+[![Gmail Badge](https://img.shields.io/badge/-rogerio.araujo@mail.com-blue?style=flat-square&logo=mail.ru&logoColor=white&link=mailto:rogerio.araujo.mail.com)](mailto:rogerio.araujo@mail.com)
 ---
 
-```javascript
-#!/usr/bin/node
+```golang
+#!/usr/bin/go
 
-class SoftwareEngineer {
-  constructor() {
-    this.name = "Rogério Araújo"
-    this.role = "Software Engineer"
-  }
+package main
+
+import (
+	"fmt"
+)
+
+type software_engineer struct {
+	name string
+	role string
 }
 
-const me = new SoftwareEngineer()
+func main() {
+	me := software_engineer{name: "Rogério Araújo", role: "Software Engineer"}
+
+	fmt.Println(me)
+}
 ```
 
 > I'm a software engineer who like make things ~~and sometimes break them~~.
@@ -43,6 +51,7 @@ const me = new SoftwareEngineer()
   
 ### Learning...
 <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg"></code>
 
  ---
  
@@ -54,4 +63,6 @@ const me = new SoftwareEngineer()
 
  ---
 
-> 👽 [rogerioaraujo.me](https://rogerioaraujo.dev)
+> 👽 [rogerioaraujo.dev](https://rogerioaraujo.dev)
+
+> 🌌 [blog](blog.rogerioaraujo.dev)
