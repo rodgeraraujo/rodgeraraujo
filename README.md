@@ -57,12 +57,16 @@ func main() {
  
  ### GitHub Stats
 
-<a href="https://github.com/rodgeraraujo/rodgeraraujo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rodgeraraujo&show_icons=true&line_height=27&count_private=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Zhenye's GitHub Stats" />
-</a>
+<div align="center">	
+  <a href="https://github.com/rodgeraraujo">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodgeraraujo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Rogério's GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodgeraraujo&layout=compact&langs_count=7&hide=java,html,php,handlebars&theme=dracula" alt="Rogério's GitHub Stats"/>
+  <img height="180em" src="https://github.com/rodgeraraujo/rodgeraraujo/blob/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+</div>
+	
 
  ---
 
 > 👽 [rogerioaraujo.dev](https://rogerioaraujo.dev)
 
-> 🌌 [blog](blog.rogerioaraujo.dev)
+> 🌌 [blog](https://blog.rogerioaraujo.dev)
