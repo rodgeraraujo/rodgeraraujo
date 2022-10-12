@@ -62,7 +62,7 @@ func main() {
 <div align="center">	
   <a href="https://github.com/rodgeraraujo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodgeraraujo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Rogério's GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodgeraraujo&layout=compact&langs_count=7&hide=java,html,php,handlebars&theme=dracula" alt="Rogério's GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodgeraraujo&layout=compact&langs_count=9&hide=java,html,php,handlebars&theme=dracula" alt="Rogério's GitHub Stats"/>
   <img height="180em" src="https://github.com/rodgeraraujo/rodgeraraujo/blob/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
 </div>
 	
