@@ -6,24 +6,22 @@
 [![Gmail Badge](https://img.shields.io/badge/-rogerio.araujo@mail.com-blue?style=flat-square&logo=mail.ru&logoColor=white&link=mailto:rogerio.araujo.mail.com)](mailto:rogerio.araujo@mail.com)
 ---
 
-```golang
-#!/usr/bin/go
+```rust
+#!/usr/bin/rustc
 
-package main
-
-import (
-	"fmt"
-)
-
-type software_engineer struct {
-	name string
-	role string
+#[derive(Debug)]
+struct SoftwareEngineer {
+    name: String,
+    role: String,
 }
 
-func main() {
-	me := software_engineer{name: "Rogério Araújo", role: "Software Engineer"}
-
-	fmt.Println(me)
+fn main() {
+    let me = SoftwareEngineer {
+        name: "Rogério Araújo".to_string(),
+        role: "Software Engineer".to_string(),
+    };
+    
+    println!("{:?}", me);
 }
 ```
 
